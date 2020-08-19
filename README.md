@@ -9,3 +9,4 @@ Little place where I put script that I tend to re-write all the time
 |Misc|python\variable_limiter.py|Multiple rate/limiter queues classes|
 |RF/Space|python\tle_manager.py|Wrapper around pyephem that search for tle data from norad and get satellite frequencies|
 |RF/Space|python\sdrsharp_controller.py|Python class to controll the GPredict connector module for SDR#|
+|Communication|scripts\route_slip.sh|Command to establish a ethernet connection over a serial port|
