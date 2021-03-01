@@ -12,3 +12,4 @@ Little place where I put script that I tend to re-write all the time
 |Communication|scripts\route_slip.sh|Command to establish a ethernet connection over a serial port|
 |Tools/Debugging|scripts\endpoint_redirector.py|Quick flaks app to redirect every request to a server and saving requests informations|
 |RF/Space|python\doppler.py|Little script that compute the doppler for a satellite/frequency|
+|ICs/Libs|circuitpython\libs\MCP4XXX.py|CircuitPython library for the MCP4XXX familly|
