@@ -13,5 +13,5 @@ Little place where I put script that I tend to re-write all the time
 |Tools/Debugging|scripts\endpoint_redirector.py|Quick flaks app to redirect every request to a server and saving requests informations|
 |RF/Space|python\doppler.py|Little script that compute the doppler for a satellite/frequency|
 |ICs/Libs|circuitpython\libs\MCP4XXX.py|CircuitPython library for the MCP4XXX familly|
-|ICs/Libs|circuitpython\libs\M62429.py|CircuitPython library for the M62429 volume controll IC|
-
+|ICs/Libs|circuitpython\libs\M62429.py|CircuitPython library for the M62429 volume control IC|
+|Tools|python\simple_signal.py|Simple signaling system for python scritps|
